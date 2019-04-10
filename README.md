@@ -8,3 +8,5 @@ sudo dkms add ./rtl8188eu
 sudo dkms build 8188eu/1.0
 sudo dkms install 8188eu/1.0
 sudo modprobe 8188eu
+
+https://askubuntu.com/questions/619840/rtl8192eu-driver-does-not-work
