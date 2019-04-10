@@ -1,0 +1,2 @@
+# rtl8192eu
+Driver TPLINK TL-WN8200ND
